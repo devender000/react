@@ -1,0 +1,4 @@
+#Guide to know the working of a rubiks cube
+
+    There will be six colors 
+    And there are many levels
